@@ -15,5 +15,5 @@ The goal is to help in early diagnosis and prevention planning by building a rel
   - Logistic Regression
   - Support Vector Classifier (SVC)
 - Model comparison and evaluation metrics (Accuracy, Precision, Recall, F1-Score)
-- Easy-to-run Jupyter Notebook
+- Easy-to-run Jupyter Noteboo and Google Colab
 - User input prediction support
